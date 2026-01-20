@@ -64,6 +64,7 @@ IoT개발자 과정 사전학습 리포지토리
      **, ~~, __, html의 u 태그 사용, i 이탤릭
      ```
      - 문장을 작성할 시 **강조**, ~~취소선~~, __강조2__, <u>밑줄</u>, <i>이탤릭</i>을 사용할 수 있습니다.
+
   
  - 깃허브 로컬 리포지토리 생성
    1. git for windows 설치
@@ -75,3 +76,22 @@ IoT개발자 과정 사전학습 리포지토리
      - https://desktop.github.com/download/ 에서 다운로드 클릭 후 설치
      - 계정 브라우저 연동
    3. 리포지토리 클론
+     - Github Desktop File 메뉴 Clone Repository 클릭
+     - Github.com 탭에서 저장소 검색, 선택
+     - Local Path 지정 후 `클론` 버튼 클릭
+
+
+ - Visual Studio Code 설치
+   1. https://code.visualstudio.com/ 에서 Download for Windows 버튼 클릭
+   2. 설치 `C:\DEV\IDE\Microsoft VS Code`에 설치
+   3. Extensions > Korean Pack for Visual Studio Code 설치 후 재시작
+  
+
+ - 추가 설치 프로그램
+   1. Notepad++ 에디터
+      - https://notepad-plus-plus.org/downloads/v8.9/ 에서 Download Notepad++ v8.9: security enhancements 버튼 클릭 후 설치
+   2. 픽픽 - https://picpick.net/ 에서 메뉴의 다운로드 눌러서 beta버전 설치
+
+
+ - **파이썬** 개발환경 설정
+   1. 

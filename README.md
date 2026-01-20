@@ -106,6 +106,13 @@ IoT개발자 과정 사전학습 리포지토리
          <img width="656" height="415" alt="image" src="https://github.com/user-attachments/assets/a4db3424-2ec4-43a1-aeb1-56eb96d48167" />
 
    8. cmd 또는 powershell 오픈, `python --version` 확인
+
    9. VS Code, Extensions(확장)에서 Python을 검색 후 설치
+
+   10. VS Code를 재오픈 후 폴더 생성(day01)
+
+   11. main.py파일 생성 오른쪽 밑에 상태표시줄 보면 python과 버전까지 같이 보임 그럼 준비 완료
+
+   12. 파일에 입력 후 `print('Hello Python 3.14.2')` Ctrl+F5하고 python debugger 선택
 
  - 프로그램 개발 개념

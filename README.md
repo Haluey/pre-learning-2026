@@ -46,4 +46,14 @@ IoT개발자 과정 사전학습 리포지토리
      - <img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/0b664f40-62ff-4483-96bc-751001bb6d17" />
      - 이미지 링크 복사가 아닌 이미지 복사로 그냥 붙여넣기하면 위와 같이 나타나짐
 
-   4.
+   4. 기본 문법 - 가로줄
+     ```markdown
+     ---
+     ```
+     ---
+   5. 기본 문법 - 코드블럭
+     - 소스코드를 작성할 때 코드하이라이팅, 영역표시 때 사용
+     - 백틱(`)을 세번 후 표시언어를 입력 또는 한번(인라인 코드블럭)
+     ```python
+     print('Hello, Python!')
+     ```

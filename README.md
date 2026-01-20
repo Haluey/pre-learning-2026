@@ -38,6 +38,12 @@ IoT개발자 과정 사전학습 리포지토리
      ```
      - [네이버](https://naver.com)
       
-     - ![이미지](https://ssl.pstatic.net/melona/libs/1557/1557526/08a43d23b9f061ba4110_20260114103056981.jpg)
-     - <img src="https://ssl.pstatic.net/melona/libs/1557/1557526/08a43d23b9f061ba4110_20260114103056981.jpg" width ="500">
+     - ![이미지](https://upload.wikimedia.org/wikipedia/commons/9/99/Welsh_Pembroke_Corgi.jpg)
      - 이미지와 링크의 차이는 !로 시작하는지 밖에 없음
+       
+     - <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Welsh_Pembroke_Corgi.jpg" width ="400">
+ 
+     - <img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/0b664f40-62ff-4483-96bc-751001bb6d17" />
+     - 이미지 링크 복사가 아닌 이미지 복사로 그냥 붙여넣기하면 위와 같이 나타나짐
+
+   4.

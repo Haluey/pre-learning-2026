@@ -65,3 +65,10 @@ IoT개발자 과정 사전학습 리포지토리
      ```
      - 문장을 작성할 시 **강조**, ~~취소선~~, __강조2__, <u>밑줄</u>, <i>이탤릭</i>을 사용할 수 있습니다.
   
+ - 깃허브 로컬 리포지토리 생성
+   1. git for windows 설치
+     - https://git-scm.com/ 에서 `Install for Windows` 버튼 클릭
+   2. Github Desktop 설치
+     - https://desktop.github.com/download/ 에서 다운로드 클릭 후 설치
+     - 계정 브라우저 연동
+   3. 리포지토리 클론

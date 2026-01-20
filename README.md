@@ -101,6 +101,9 @@ IoT개발자 과정 사전학습 리포지토리
    5. Advanced Options 에서 Install Python 3.14 for all users 체크
    6. 경로 변경 후 설치
         <img width="656" height="415" alt="image" src="https://github.com/user-attachments/assets/42fd5ac5-75cf-4526-be07-638d766d36f5" />
-
+        
+   7. Setup was succesful 에서 Disable path length limit 클릭(필수!)
+         <img width="656" height="415" alt="image" src="https://github.com/user-attachments/assets/a4db3424-2ec4-43a1-aeb1-56eb96d48167" />
+ 
 
  - 프로그램 개발 개념

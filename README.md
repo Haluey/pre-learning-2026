@@ -89,9 +89,18 @@ IoT개발자 과정 사전학습 리포지토리
 
  - 추가 설치 프로그램
    1. Notepad++ 에디터
-      - https://notepad-plus-plus.org/downloads/v8.9/ 에서 Download Notepad++ v8.9: security enhancements 버튼 클릭 후 설치
+      - https://notepad-plus-plus.org/downloads/v8.9/ 에서 `Download Notepad++ v8.9: security enhancements` 버튼 클릭 후 설치
    2. 픽픽 - https://picpick.net/ 에서 메뉴의 다운로드 눌러서 beta버전 설치
 
 
  - **파이썬** 개발환경 설정
-   1. 
+   1. https://www.python.org/ 에서 Downloads의 `Python 3.14.2` 버튼 클릭
+   2. Add python.exe to PATH 체크 활성화 후
+   3. Installer > Customize installation 클릭
+   4. Documents 체크 해제, for all users 체크 활성화 다음
+   5. Advanced Options 에서 Install Python 3.14 for all users 체크
+   6. 경로 변경 후 설치
+        <img width="656" height="415" alt="image" src="https://github.com/user-attachments/assets/42fd5ac5-75cf-4526-be07-638d766d36f5" />
+
+
+ - 프로그램 개발 개념

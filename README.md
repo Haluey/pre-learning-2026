@@ -100,9 +100,11 @@ IoT개발자 과정 사전학습 리포지토리
     4. Documents 체크 해제, for all users 체크 활성화 다음
     5. Advanced Options 에서 Install Python 3.14 for all users 체크
     6. 경로 변경 후 설치
+
           <img width="656" height="415" alt="image" src="https://github.com/user-attachments/assets/42fd5ac5-75cf-4526-be07-638d766d36f5" />
           
     7. Setup was succesful 에서 Disable path length limit 클릭(필수!)
+    
           <img width="656" height="415" alt="image" src="https://github.com/user-attachments/assets/a4db3424-2ec4-43a1-aeb1-56eb96d48167" />
 
     8. cmd 또는 powershell 오픈, `python --version` 확인
@@ -177,4 +179,10 @@ IoT개발자 과정 사전학습 리포지토리
 
 ## 3일차
 - 파이썬
-  - 함수
+  - 함수 및 모듈
+    - [함수](./day03/functions.py) 확인
+    - [모듈](./day03/modules.py) 확인
+  
+  - 개념
+    - 컴퓨터는 모든 것이 값
+    - 엔터(\n)도 값, Space(32)도 값, "", None(미정) == Null

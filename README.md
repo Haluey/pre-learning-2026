@@ -186,3 +186,8 @@ IoT개발자 과정 사전학습 리포지토리
   - 개념
     - 컴퓨터는 모든 것이 값
     - 엔터(\n)도 값, Space(32)도 값, "", None(미정) == Null
+
+  - 파일 입출력
+    - [파일 쓰기](./day03/file_write.py) 확인
+    - [파일 읽기](./day03/file_read.py) 확인
+    - [파일 ](./day03/file_write.py) 확인
